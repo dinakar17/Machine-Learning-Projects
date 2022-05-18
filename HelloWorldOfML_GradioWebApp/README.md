@@ -12,7 +12,7 @@
 
 ### Google Colaboratory Link Here
 
->[Colab_link]
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_tPuKWVLLeOAiFbtZCBrp7fIsPNE2DTT)
 
 ### Hugging faces Live Demo Here
 
@@ -21,6 +21,6 @@
 
 [//]: #
 
-   [Colab_link]: <https://colab.research.google.com/drive/1_tPuKWVLLeOAiFbtZCBrp7fIsPNE2DTT>
+   [Colab_link]: <[https://colab.research.google.com/drive/1_tPuKWVLLeOAiFbtZCBrp7fIsPNE2DTT](https://colab.research.google.com/drive/1_tPuKWVLLeOAiFbtZCBrp7fIsPNE2DTT?usp=sharing)>
 
    [LIve_demo]: <https://huggingface.co/spaces/dinakar/Handwritten_Digit_Classification>
